@@ -1,4 +1,3 @@
 node_modules/
 /lib/
-/dist/
-custom-elements.json
+dist/
